@@ -2,8 +2,6 @@
 
 ## About this app installation
 
-
-
 create  the folder on your machine
 <br>
 open cmd on windows machine  and move to created folder
@@ -65,3 +63,16 @@ Change following in .env file
 
 
 <br>php artisan serve
+
+
+## What you will see at the end 
+
+
+
+https://user-images.githubusercontent.com/32408213/220579449-ab97b108-904a-40d1-a60c-36b61d7d4b8d.mp4
+
+
+## What was the problem requirement ?
+
+![Screenshot_7](https://user-images.githubusercontent.com/32408213/220579783-1226a3a1-efe0-4ced-8008-1c687e3ba8be.png)
+
